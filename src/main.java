@@ -1,7 +1,3 @@
-import transporte.Carro;
-import transporte.Metro;
-import transporte.Veiculo;
-
 public class main {
     public static void main(String[] args) {
 

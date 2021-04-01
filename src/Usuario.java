@@ -18,8 +18,4 @@ public class Usuario {
         }
 
     }
-
-    public String calculaRota() {
-        return this.veiculo.calculaRota();
-    }
 }
